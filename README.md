@@ -136,6 +136,9 @@ python doge_main.py
 - 方泽华
 - 王焯
 
+## 合作联系方式
+wx:wzytg001
+
 ## 特别鸣谢
 
 - Thomas的手冲咖啡
