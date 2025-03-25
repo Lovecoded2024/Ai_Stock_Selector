@@ -55,7 +55,7 @@ conda install -c conda-forge ta-lib
 ```
 
 3. 配置LLM API：
-在`LLM_API.txt`文件中填写API配置信息
+在`config`文件中填写API配置信息
 
 ## 使用说明
 
@@ -95,7 +95,6 @@ python main.py
 - `db_maintenance.py`: 数据库维护
 - `utils.py`: 工具函数
 - `config.py`: 配置文件
-- `LLM_API.txt`: LLM API配置
 - `data/`: 股票数据存储目录
 - `report/`: 分析报告存储目录
 
@@ -133,7 +132,7 @@ python doge_main.py
 ## 创作者
 
 - 杨天戈
-- 金星兴
+- 金兴昕
 - 方泽华
 - 王焯
 
